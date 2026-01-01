@@ -1,0 +1,498 @@
+{
+    "company_info": {
+        "legal_name": "Diaz Airflow Solutions Inc.",
+        "brand_name": "Diaz Airflow Solutions Inc.",
+        "tagline": "Your Comfort is Our Mission",
+        "established": "2010",
+        "license": "MD HVAC License #17-8432",
+        "insurance": "Fully Licensed & Insured - $2M General Liability"
+    },
+    "contact": {
+        "primary_phone": "(240) 338-0049",
+        "emergency_phone": "(240) 338-0049",
+        "email": "info@diazairflowsolutions.com",
+        "website": "www.diazairflowsolutions.com",
+        "address": {
+            "street": "Service Area",
+            "city": "Bowie",
+            "state": "MD",
+            "zip": "20721",
+            "country": "USA"
+        },
+        "business_hours": {
+            "monday_friday": "7:00 AM - 6:00 PM",
+            "saturday": "8:00 AM - 4:00 PM",
+            "sunday": "Emergency Service Only",
+            "holidays": "Emergency Service Available"
+        },
+        "service_areas": [
+            "Bowie, MD",
+            "Upper Marlboro, MD",
+            "Laurel, MD",
+            "Silver Spring, MD",
+            "Rockville, MD",
+            "Bethesda, MD",
+            "College Park, MD",
+            "Hyattsville, MD",
+            "Washington, DC",
+            "Arlington, VA",
+            "Alexandria, VA"
+        ]
+    },
+    "brand_assets": {
+        "logo": "/diaz-airflow-logo.png",
+        "favicon": "/favicon.ico",
+        "colors": {
+            "primary": "#003361",
+            "secondary": "#0052a3",
+            "accent": "#ff6b35",
+            "emergency": "#dc2626",
+            "success": "#10b981",
+            "warning": "#f59e0b",
+            "info": "#3b82f6",
+            "dark": "#1a1a1a",
+            "light": "#f5f5f5"
+        },
+        "fonts": {
+            "heading": "Montserrat, sans-serif",
+            "body": "Inter, sans-serif",
+            "accent": "Roboto, sans-serif"
+        }
+    },
+    "hero_section": {
+        "main_headline": "Expert HVAC Solutions for Perfect Indoor Comfort",
+        "sub_headline": "24/7 Emergency Service • Licensed & Insured • Serving DMV Since 2010",
+        "description": "From emergency repairs to energy-efficient installations, Diaz Airflow Solutions Inc. delivers superior HVAC services that keep your home and business comfortable year-round.",
+        "cta_primary": {
+            "text": "Get Free Estimate",
+            "action": "#contact-form",
+            "icon": "calculator"
+        },
+        "cta_secondary": {
+            "text": "Call Now: (240) 338-0049",
+            "action": "tel:2403380049",
+            "icon": "phone"
+        },
+        "hero_image": "https://images.unsplash.com/photo-1581094794329-c8112c52e166",
+        "video_url": "https://storage.googleapis.com/diazairflowsolutions/hero-video.mp4",
+        "trust_badges": [
+            "EPA Certified",
+            "NATE Certified",
+            "Energy Star Partner",
+            "BBB A+ Rating"
+        ]
+    },
+    "services": [
+        {
+            "id": "ac-installation",
+            "name": "Air Conditioning Installation",
+            "icon": "snowflake",
+            "short_description": "Professional AC installation with energy-efficient systems",
+            "full_description": "Our certified technicians provide expert installation of high-efficiency air conditioning systems. We perform detailed load calculations, recommend the perfect system for your space, and ensure proper installation for maximum efficiency and longevity.",
+            "features": [
+                "Free in-home consultation",
+                "Load calculation and system sizing",
+                "Energy Star certified equipment",
+                "10-year labor warranty",
+                "Financing options available",
+                "Same-day installation available"
+            ],
+            "price_range": "$$$$",
+            "duration": "4-8 hours",
+            "image": "https://images.unsplash.com/photo-1621905251918-48615bd8f28d"
+        },
+        {
+            "id": "ac-repair",
+            "name": "Air Conditioner Repair",
+            "icon": "wrench",
+            "short_description": "Fast, reliable AC repair service 24/7",
+            "full_description": "When your AC breaks down, we're here to help. Our experienced technicians diagnose and repair all makes and models quickly and efficiently. We carry common parts in our service vehicles for faster repairs.",
+            "features": [
+                "24/7 emergency service",
+                "Free diagnostic with repair",
+                "Upfront pricing",
+                "All brands serviced",
+                "90-day repair warranty",
+                "2-hour emergency response"
+            ],
+            "price_range": "$$",
+            "duration": "1-3 hours",
+            "image": "https://images.unsplash.com/photo-1607400201515-c5c92c1d5577"
+        },
+        {
+            "id": "heating-installation",
+            "name": "Heating Installation",
+            "icon": "flame",
+            "short_description": "Efficient heating systems for Maryland winters",
+            "full_description": "Stay warm all winter with our professional heating installation services. We install high-efficiency furnaces, heat pumps, and hybrid systems designed to provide reliable comfort while minimizing energy costs.",
+            "features": [
+                "Gas furnaces up to 98% AFUE",
+                "Heat pump systems",
+                "Hybrid dual-fuel systems",
+                "Smart thermostat integration",
+                "Rebate assistance",
+                "Extended warranties available"
+            ],
+            "price_range": "$$$$",
+            "duration": "4-8 hours",
+            "image": "https://images.unsplash.com/photo-1565619624381-56d49b8593d5"
+        },
+        {
+            "id": "heating-repair",
+            "name": "Heating Repair",
+            "icon": "tool",
+            "short_description": "Emergency heating repair when you need it most",
+            "full_description": "Don't let a broken heater leave you in the cold. Our heating repair experts are available 24/7 to diagnose and fix any heating system issue, ensuring your family stays warm and comfortable.",
+            "features": [
+                "24/7 emergency service",
+                "All heating types serviced",
+                "Carbon monoxide testing",
+                "Safety inspections included",
+                "Transparent pricing",
+                "Fast response times"
+            ],
+            "price_range": "$$",
+            "duration": "1-3 hours",
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64"
+        },
+        {
+            "id": "maintenance",
+            "name": "HVAC Maintenance",
+            "icon": "calendar-check",
+            "short_description": "Preventive maintenance to avoid breakdowns",
+            "full_description": "Regular maintenance is key to system longevity and efficiency. Our comprehensive maintenance programs include seasonal tune-ups, priority service, and discounts on repairs.",
+            "features": [
+                "Bi-annual inspections",
+                "Priority emergency service",
+                "15% discount on repairs",
+                "No overtime charges",
+                "Filter replacements included",
+                "Digital service records"
+            ],
+            "price_range": "$",
+            "duration": "1-2 hours",
+            "image": "https://images.unsplash.com/photo-1621905251918-48416db5475d"
+        },
+        {
+            "id": "air-quality",
+            "name": "Indoor Air Quality",
+            "icon": "wind",
+            "short_description": "Clean, healthy air for your family",
+            "full_description": "Improve your indoor air quality with our comprehensive solutions including air purifiers, humidifiers, UV lights, and duct cleaning services. Breathe easier and live healthier.",
+            "features": [
+                "HEPA filtration systems",
+                "UV germicidal lights",
+                "Whole-home humidifiers",
+                "Duct cleaning and sealing",
+                "Air quality testing",
+                "Allergen reduction systems"
+            ],
+            "price_range": "$$$",
+            "duration": "2-4 hours",
+            "image": "https://images.unsplash.com/photo-1558817902-3d58de915b38"
+        }
+    ],
+    "statistics": [
+        {
+            "value": "25+",
+            "label": "Years of Experience",
+            "icon": "award"
+        },
+        {
+            "value": "10,000+",
+            "label": "Happy Customers",
+            "icon": "users"
+        },
+        {
+            "value": "24/7",
+            "label": "Emergency Service",
+            "icon": "clock"
+        },
+        {
+            "value": "100%",
+            "label": "Satisfaction Guarantee",
+            "icon": "shield-check"
+        },
+        {
+            "value": "A+",
+            "label": "BBB Rating",
+            "icon": "star"
+        },
+        {
+            "value": "50+",
+            "label": "Certified Technicians",
+            "icon": "certificate"
+        }
+    ],
+    "testimonials": [
+        {
+            "id": 1,
+            "name": "Michael Thompson",
+            "role": "Homeowner, Silver Spring",
+            "rating": 5,
+            "text": "Diaz Airflow Solutions Inc. saved our summer! When our AC died during a heatwave, they arrived within 2 hours and had us cool again by evening. Professional, fair pricing, and excellent work.",
+            "date": "2024-08-15",
+            "service": "AC Repair"
+        },
+        {
+            "id": 2,
+            "name": "Sarah Martinez",
+            "role": "Property Manager, Rockville",
+            "rating": 5,
+            "text": "We manage 12 properties and exclusively use Diaz for all HVAC needs. They're reliable, professional, and their maintenance program has reduced our emergency calls by 70%. Highly recommended!",
+            "date": "2024-09-22",
+            "service": "Commercial Maintenance"
+        },
+        {
+            "id": 3,
+            "name": "David Chen",
+            "role": "Restaurant Owner, Bethesda",
+            "rating": 5,
+            "text": "They installed a complete HVAC system in our new restaurant. The team worked around our schedule, finished on time, and the system works perfectly. Great attention to detail and very knowledgeable.",
+            "date": "2024-10-10",
+            "service": "Commercial Installation"
+        },
+        {
+            "id": 4,
+            "name": "Jennifer Williams",
+            "role": "Homeowner, Bowie",
+            "rating": 5,
+            "text": "After getting quotes from 5 companies, we chose Diaz for our new heat pump installation. Best decision ever! They were the most thorough, honest, and their price was very competitive.",
+            "date": "2024-07-30",
+            "service": "Heat Pump Installation"
+        },
+        {
+            "id": 5,
+            "name": "Robert Johnson",
+            "role": "Office Manager, DC",
+            "rating": 5,
+            "text": "Our office AC wasn't cooling properly. Diaz diagnosed the issue quickly, explained everything clearly, and fixed it at a fair price. They even followed up a week later to ensure everything was working well.",
+            "date": "2024-09-05",
+            "service": "Commercial AC Repair"
+        },
+        {
+            "id": 6,
+            "name": "Maria Rodriguez",
+            "role": "Homeowner, Laurel",
+            "rating": 5,
+            "text": "The technician was incredibly knowledgeable and patient with my questions. He explained the maintenance process, showed me how to change filters, and gave tips for better efficiency. Excellent service!",
+            "date": "2024-10-20",
+            "service": "Maintenance"
+        }
+    ],
+    "faqs": [
+        {
+            "question": "Do you offer 24/7 emergency service?",
+            "answer": "Yes! We provide 24/7 emergency HVAC service throughout the DMV area. Our emergency response team typically arrives within 2 hours for urgent heating and cooling issues."
+        },
+        {
+            "question": "What brands do you service?",
+            "answer": "We service all major HVAC brands including Carrier, Trane, Lennox, Rheem, Goodman, York, Bryant, American Standard, and more. Our technicians are factory-trained and certified."
+        },
+        {
+            "question": "Do you offer financing?",
+            "answer": "Yes, we offer flexible financing options for new HVAC installations with approved credit. We have plans with 0% interest for qualified customers and terms up to 10 years."
+        },
+        {
+            "question": "How often should I service my HVAC system?",
+            "answer": "We recommend bi-annual maintenance - once in spring for your AC and once in fall for your heating system. Regular maintenance extends equipment life and prevents unexpected breakdowns."
+        },
+        {
+            "question": "What's included in your maintenance plan?",
+            "answer": "Our maintenance plan includes two annual tune-ups, priority emergency service, 15% discount on repairs, no overtime charges, filter replacements, and a comprehensive 25-point inspection."
+        },
+        {
+            "question": "How long do HVAC systems typically last?",
+            "answer": "With proper maintenance, air conditioners and heat pumps typically last 12-15 years, while furnaces can last 15-20 years. Regular maintenance can extend these lifespans significantly."
+        },
+        {
+            "question": "Do you offer free estimates?",
+            "answer": "Yes! We provide free in-home estimates for all new HVAC installations. For repairs, we offer free diagnostics when you approve the repair."
+        },
+        {
+            "question": "Are your technicians certified?",
+            "answer": "All our technicians are EPA certified, NATE certified, and undergo continuous training. They're also background-checked, drug-tested, and fully insured for your peace of mind."
+        }
+    ],
+    "certifications": [
+        {
+            "name": "EPA Certification",
+            "description": "Environmental Protection Agency certified for safe refrigerant handling",
+            "logo": "/epa-cert.png"
+        },
+        {
+            "name": "NATE Certification",
+            "description": "North American Technician Excellence certified technicians",
+            "logo": "/nate-cert.png"
+        },
+        {
+            "name": "Energy Star Partner",
+            "description": "Certified partner for energy-efficient installations",
+            "logo": "/energy-star.png"
+        },
+        {
+            "name": "BBB Accredited",
+            "description": "A+ rating with Better Business Bureau",
+            "logo": "/bbb-logo.png"
+        },
+        {
+            "name": "Factory Authorized",
+            "description": "Factory authorized dealer for major brands",
+            "logo": "/factory-auth.png"
+        }
+    ],
+    "gallery": {
+        "categories": [
+            {
+                "name": "Residential Installations",
+                "images": [
+                    {
+                        "url": "https://storage.googleapis.com/diazairflow/gallery/residential-1.jpg",
+                        "caption": "3-ton split system installation in Silver Spring home"
+                    },
+                    {
+                        "url": "https://storage.googleapis.com/diazairflow/gallery/residential-2.jpg",
+                        "caption": "Dual-zone mini-split installation in Bethesda condo"
+                    },
+                    {
+                        "url": "https://storage.googleapis.com/diazairflow/gallery/residential-3.jpg",
+                        "caption": "High-efficiency furnace replacement in Bowie"
+                    }
+                ]
+            },
+            {
+                "name": "Commercial Projects",
+                "images": [
+                    {
+                        "url": "https://storage.googleapis.com/diazairflow/gallery/commercial-1.jpg",
+                        "caption": "50-ton rooftop unit installation for office building"
+                    },
+                    {
+                        "url": "https://storage.googleapis.com/diazairflow/gallery/commercial-2.jpg",
+                        "caption": "VRF system for 20,000 sq ft retail space"
+                    },
+                    {
+                        "url": "https://storage.googleapis.com/diazairflow/gallery/commercial-3.jpg",
+                        "caption": "Restaurant kitchen ventilation system"
+                    }
+                ]
+            },
+            {
+                "name": "Ductwork",
+                "images": [
+                    {
+                        "url": "https://storage.googleapis.com/diazairflow/gallery/ductwork-1.jpg",
+                        "caption": "Custom fabricated spiral ductwork"
+                    },
+                    {
+                        "url": "https://storage.googleapis.com/diazairflow/gallery/ductwork-2.jpg",
+                        "caption": "Commercial duct installation with insulation"
+                    },
+                    {
+                        "url": "https://storage.googleapis.com/diazairflow/gallery/ductwork-3.jpg",
+                        "caption": "Residential duct replacement project"
+                    }
+                ]
+            }
+        ]
+    },
+    "seo_content": {
+        "meta_title": "Diaz Airflow Solutions Inc. | HVAC Services in Maryland | AC Repair & Installation",
+        "meta_description": "Expert HVAC services in Maryland. 24/7 emergency AC repair, heating installation, and maintenance. Licensed, insured, serving DMV since 2010. Call (240) 338-0049.",
+        "keywords": [
+            "HVAC Maryland",
+            "AC repair Bowie",
+            "heating installation Silver Spring",
+            "air conditioning Rockville",
+            "furnace repair Bethesda",
+            "emergency HVAC DMV",
+            "HVAC contractor Maryland",
+            "air quality solutions MD",
+            "duct cleaning Maryland",
+            "heat pump installation DC"
+        ],
+        "schema_markup": {
+            "@context": "https://schema.org",
+            "@type": "HVACBusiness",
+            "name": "Diaz Airflow Solutions Inc.",
+            "image": "https://www.diazairflowsolutions.com/logo.png",
+            "telephone": "(240) 338-0049",
+            "email": "info@diazairflowsolutions.com",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Bowie",
+                "addressRegion": "MD",
+                "postalCode": "20721",
+                "addressCountry": "US"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 38.9428,
+                "longitude": -76.7311
+            },
+            "url": "https://www.diazairflowsolutions.com",
+            "sameAs": [
+                "https://www.facebook.com/diazairflowsolutions",
+                "https://www.instagram.com/diazairflow",
+                "https://www.yelp.com/biz/diaz-air-flow-solutions"
+            ],
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": [
+                        "Monday",
+                        "Tuesday",
+                        "Wednesday",
+                        "Thursday",
+                        "Friday"
+                    ],
+                    "opens": "07:00",
+                    "closes": "18:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "08:00",
+                    "closes": "16:00"
+                }
+            ],
+            "priceRange": "$$",
+            "areaServed": {
+                "@type": "State",
+                "name": "Maryland"
+            }
+        }
+    },
+    "cta_sections": {
+        "emergency": {
+            "headline": "HVAC Emergency? We're Here 24/7!",
+            "subheadline": "Fast response, expert repairs, fair pricing",
+            "phone": "(240) 338-0049",
+            "button_text": "Call Now for Emergency Service",
+            "icon": "phone-emergency"
+        },
+        "estimate": {
+            "headline": "Get Your Free Estimate Today",
+            "subheadline": "No obligation, transparent pricing, expert recommendations",
+            "button_text": "Schedule Free Estimate",
+            "form_fields": [
+                "name",
+                "email",
+                "phone",
+                "service_type",
+                "preferred_time"
+            ]
+        },
+        "maintenance": {
+            "headline": "Join Our Maintenance Program",
+            "subheadline": "Save money, prevent breakdowns, priority service",
+            "button_text": "Learn About Maintenance Plans",
+            "benefits": [
+                "2 annual tune-ups",
+                "15% repair discount",
+                "Priority service",
+                "No overtime charges"
+            ]
+        }
+    }
+}

@@ -7,7 +7,7 @@ Use this optimized prompt with the enhanced blueprint to generate modern, respon
 ## Primary Prompt Structure
 
 ```markdown
-Generate a [HVAC/Air Conditioning] for [Diaz Air Flow Solutions] in the [Construction] sector using the Modern Website Generator Blueprint v2.0.
+Generate a [HVAC/Air Conditioning] for [Diaz Airflow Solutions Inc.] in the [Construction] sector using the Modern Website Generator Blueprint v2.0.
 
 ## Business Context
 - **Industry**: [HVAC/Air Conditioning] 
@@ -24,10 +24,10 @@ Generate a [HVAC/Air Conditioning] for [Diaz Air Flow Solutions] in the [Constru
   Showcase expertise and certifications,
   Build trust through reviews and portfolio,
   Increase qualified leads for HVAC installation, repair, and maintenance services,
-  Strengthen Diaz Sheet Metal’s reputation as a trusted HVAC contractor in Maryland, Virginia, and Washington D.C.,
+  Strengthen Diaz Airflow Solutions Inc.’s reputation as a trusted HVAC contractor in Maryland, Virginia, and Washington D.C.,
   Improve website conversion with clear service explanations, booking options, and strong calls to action.
 ]
-- **Unique Value Proposition**: [At Díaz Air Flow Solutions, we're more than just technicians; we're a local, family-owned business dedicated to serving the Rockville community. We believe in building lasting relationships through honest work and unparalleled craftsmanship.]
+- **Unique Value Proposition**: [At Díaz Airflow Solutions Inc., we're more than just technicians; we're a local, family-owned business dedicated to serving the Rockville community. We believe in building lasting relationships through honest work and unparalleled craftsmanship.]
 - **Competitors**: [
   One Hour Heating & Air Conditioning,
   CroppMetcalfe,
@@ -75,7 +75,7 @@ Generate a [HVAC/Air Conditioning] for [Diaz Air Flow Solutions] in the [Constru
 ## Content Guidelines
 - **Tone of Voice**: [Clear, confident, and service-oriented. Content should communicate expertise, reliability, and trust.   The tone must be friendly but authoritative, focused on guiding the customer toward the best HVAC solution.]
 - **Key Messages**: [
-  Diaz Air Flow Solutions provides expert HVAC installation, repair, and maintenance with 20+ years of experience.,
+  Diaz Airflow Solutions Inc. provides expert HVAC installation, repair, and maintenance with 20+ years of experience.,
   Fast, reliable service for both residential and commercial clients in the Maryland, Virginia, and DC area.,
   Licensed, insured, and committed to delivering efficient and long-lasting heating and cooling solutions.,
   Transparent pricing, honest recommendations, and high-quality workmanship.,
