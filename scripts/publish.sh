@@ -7,22 +7,25 @@ set -e
 SCRIPT_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 PROJECT_ROOT="$(dirname "$SCRIPT_DIR")"
 
+# Variables
+GITHUB_REPO="https://github.com/xiadom-ai/diazairflowsolutions"
+
 # Logging Functions
 log_info() {
-    echo -e "\e[34m[INFO]\e[0m $1"
+    echo -e "ℹ️  \e[34m[INFO]\e[0m $1"
 }
 
 log_success() {
-    echo -e "\e[32m[SUCCESS]\e[0m $1"
+    echo -e "✅ \e[32m[SUCCESS]\e[0m $1"
 }
 
 log_error() {
-    echo -e "\e[31m[ERROR]\e[0m $1"
+    echo -e "❌ \e[31m[ERROR]\e[0m $1"
 }
 
 log_step() {
     echo "------------------------------------------------------------------------------"
-    echo -e "\e[1m$1\e[0m"
+    echo -e "🚀 \e[1m$1\e[0m"
     echo "------------------------------------------------------------------------------"
 }
 
@@ -46,7 +49,7 @@ if git diff-index --quiet HEAD --; then
     if [ -n "$(git ls-files --others --exclude-standard)" ]; then
         log_info "Untracked files found."
     else
-        log_success "Clean working directory. Nothing to do."
+        log_success "Clean working directory. Nothing to do. ✨"
         exit 0
     fi
 fi
@@ -74,7 +77,7 @@ log_step "3. Committing Changes"
 COMMIT_MSG="$1"
 
 if [ -z "$COMMIT_MSG" ]; then
-    echo -n "Enter commit message: "
+    echo -n "📝 Enter commit message: "
     read -r COMMIT_MSG
 fi
 
@@ -111,4 +114,4 @@ else
 fi
 
 echo ""
-log_success "Done! Your code is now live on GitHub."
+log_success "Done! Your code is now live on GitHub: ${GITHUB_REPO} 🌐"
